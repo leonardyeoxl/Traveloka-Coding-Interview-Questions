@@ -20,11 +20,11 @@
 2. Given a linked list print the last nth node.
 3. Given disks and rings. You have an array representing the size of those disks. And another array having sizes of the rings.
 - Rules:
- - A smaller disk can pass bigger ring.
- - A disk equal to another disk will be stuck at the top of the disk.
- - If there’s a disk stuck at the top of a ring, no other disk can pass through it, it will be stuck at its top.
- - Only one more disk can be stuck at the top of the first ring.
- - If one disk is at the top, no more insertion of a disk can be done.
+  - A smaller disk can pass bigger ring.
+  - A disk equal to another disk will be stuck at the top of the disk.
+  - If there’s a disk stuck at the top of a ring, no other disk can pass through it, it will be stuck at its top.
+  - Only one more disk can be stuck at the top of the first ring.
+  - If one disk is at the top, no more insertion of a disk can be done.
 - Write a code to find the number of disks that can be inserted. Start inserting from the first element of the array. Only one disk can be inserted above the first ring.
 
 ```txt
