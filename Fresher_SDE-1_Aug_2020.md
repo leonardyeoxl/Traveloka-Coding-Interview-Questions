@@ -109,6 +109,7 @@ You are not required to explicitly print the expected output, just return it and
 ```
 
 #### Constraints:
+```txt
 1 <= N <= 10^6
 -10^9 <= A[i] <= 10^9
 1 <= Q <= 500
@@ -191,7 +192,7 @@ The first line of input contains an integer 'T' representing the number of test 
 Then the test case follows.
 The first line of each test case contains an integer 'N', denoting the size of the array.
 The second line of each test case contains 'N' single space-separated integers representing the array elements.
-
+```
 
 #### Output Format:
 ```txt
